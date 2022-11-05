@@ -1,0 +1,11 @@
+{
+  "name": "atividade-de-ad",
+  "version": "1.0.0",
+  "description": "Material da atividade de Administração de Dados realizado por mim, Adriano Vinícius, do 3° ano \"B\" da ETE Porto Digital.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
